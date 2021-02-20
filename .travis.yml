@@ -1,11 +1,11 @@
 sudo: false
 language: node_js
 node_js:
-  - 10 # use nodejs v10 LTS
+  - 12 # use nodejs v10 LTS
 cache: npm
 branches:
   only:
-    - master # build master branch only
+    - blog-source # 仅从 blog-source 分支构建
 script:
   - hexo generate # generate static files
 deploy:
@@ -13,6 +13,8 @@ deploy:
   skip-cleanup: true
   github-token: $GH_TOKEN
   keep-history: true
+  committer_from_gh: true
+  target_branch: gh-pages # 部署到 master 分支
   on:
-    branch: master
+    branch: blog-source
   local-dir: public
