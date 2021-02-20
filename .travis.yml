@@ -7,6 +7,7 @@ branches:
   only:
     - blog-source # 仅从 blog-source 分支构建
 script:
+  - git clone https://github.com/geektutu/hexo-theme-geektutu.git themes/geektutu #下载主题
   - hexo generate # generate static files
 deploy:
   provider: pages
