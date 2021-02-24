@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>暖风吹过的季节</title>
+    <link>https://hellnxue.github.io/</link>
+    
+    <image>
+      <url>https://hellnxue.github.io/img/icon.png</url>
+      <title>暖风吹过的季节</title>
+      <link>https://hellnxue.github.io/</link>
+    </image>
+    
+    <atom:link href="https://hellnxue.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    
+    <description>暖风吹过的季节的小站，致力于分享一些技术教程和有趣的技术实践。</description>
+    <pubDate>Wed, 24 Feb 2021 11:14:32 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>vue动态添加的路由页面刷新时失效</title>
+      <link>https://hellnxue.github.io/post/2021/vue/vue-route-experience1.html</link>
+      <guid>https://hellnxue.github.io/post/2021/vue/vue-route-experience1.html</guid>
+      <pubDate>Wed, 24 Feb 2021 03:57:47 GMT</pubDate>
+      
+        
+        
+      <description>&lt;img src=&quot;/post/2021/vue/vue-route-experience1/me.png&quot; title=&quot;This is an example image&quot;&gt;
+
+&lt;h2 id=&quot;问题描述&quot;&gt;&lt;a href=&quot;#问题描述&quot; class=&quot;headerlink&quot; t</description>
+        
+      
+      
+      <enclosure url="https://hellnxue.github.io/img/xhcat/cat4.jpg" type="image"/>
+      
+      
+      
+      <category domain="https://hellnxue.github.io/categories/Vue%E7%A7%AF%E7%B4%AF/">Vue积累</category>
+      
+      
+      <category domain="https://hellnxue.github.io/tags/%E5%89%8D%E7%AB%AF%E5%AD%A6%E4%B9%A0/">前端学习</category>
+      
+      <category domain="https://hellnxue.github.io/tags/Vue/">Vue</category>
+      
+      <category domain="https://hellnxue.github.io/tags/%E5%B7%A5%E4%BD%9C%E7%A7%AF%E7%B4%AF/">工作积累</category>
+      
+      
+      <comments>https://hellnxue.github.io/post/2021/vue/vue-route-experience1.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>关于我</title>
+      <link>https://hellnxue.github.io/post/2021/about.html</link>
+      <guid>https://hellnxue.github.io/post/2021/about.html</guid>
+      <pubDate>Fri, 19 Feb 2021 13:05:50 GMT</pubDate>
+      
+      <description>暖风吹过的季节的小站，致力于分享一些技术教程和有趣的技术实践。</description>
+      
+      
+      <enclosure url="https://hellnxue.github.io/img/xhcat.jpg" type="image"/>
+      
+      
+      
+      
+      <category domain="https://hellnxue.github.io/tags/%E5%85%B3%E4%BA%8E%E6%88%91/">关于我</category>
+      
+      
+      <comments>https://hellnxue.github.io/post/2021/about.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://hellnxue.github.io/post/2021/link.html</link>
+      <guid>https://hellnxue.github.io/post/2021/link.html</guid>
+      <pubDate>Thu, 18 Feb 2021 03:51:24 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.</description>
+        
+      
+      
+      <enclosure url="https://hellnxue.github.io/img/pks.jpg" type="image"/>
+      
+      
+      
+      <category domain="https://hellnxue.github.io/categories/%E7%BB%83%E4%B9%A0/">练习</category>
+      
+      
+      
+      <comments>https://hellnxue.github.io/post/2021/link.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>文章测试</title>
+      <link>https://hellnxue.github.io/post/2021/tensorflow-mnist-simplest.html</link>
+      <guid>https://hellnxue.github.io/post/2021/tensorflow-mnist-simplest.html</guid>
+      <pubDate>Tue, 09 Feb 2021 02:51:24 GMT</pubDate>
+      
+      <description>TensorFlow 入门系列文章，mnist手写数字识别(网络搭建)。</description>
+      
+      
+      <enclosure url="https://hellnxue.github.io/img/bg.jpg" type="image"/>
+      
+      
+      
+      <category domain="https://hellnxue.github.io/categories/%E5%89%8D%E7%AB%AF%E5%AD%A6%E4%B9%A0/">前端学习</category>
+      
+      
+      <category domain="https://hellnxue.github.io/tags/%E5%89%8D%E7%AB%AF%E5%AD%A6%E4%B9%A0/">前端学习</category>
+      
+      <category domain="https://hellnxue.github.io/tags/Vue/">Vue</category>
+      
+      <category domain="https://hellnxue.github.io/tags/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/">微信小程序</category>
+      
+      <category domain="https://hellnxue.github.io/tags/JavaScript/">JavaScript</category>
+      
+      <category domain="https://hellnxue.github.io/tags/Node/">Node</category>
+      
+      
+      <comments>https://hellnxue.github.io/post/2021/tensorflow-mnist-simplest.html#disqus_thread</comments>
+      
+    </item>
+    
+  </channel>
+</rss>
